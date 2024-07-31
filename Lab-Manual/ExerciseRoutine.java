@@ -15,7 +15,7 @@ public class ExerciseRoutine {
         }
         System.out.println(" ");
         System.out.printf("The sum of all the Fibonacci series of %d numbers is %d", num, result);
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
+        System.out.println("\nName: Krishil Agrawal\nID: 23DCS001");
     }
 
     public static int FibonacciNumber(int num) {

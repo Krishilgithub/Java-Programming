@@ -18,7 +18,7 @@ class Area {
         breadth = 2;
     }
 
-    Area(double lenght, double breadth) {
+    Area(double length, double breadth) {
         this.length = length;
         this.breadth = breadth;
     }
@@ -29,10 +29,10 @@ class Area {
         System.out.println("Enter the breadth of the rectangle: ");
         a1.breadth = sc.nextDouble();
         //return a1;
-        System.out.println("The area of rectangle is: " + a1.displayArea());
+        System.out.println("The area of rectangle is: " + a1.returnArea());
     }
 
-    double displayArea() {
+    double returnArea() {
         //    Area temp = new Area();
         return length * breadth;
     }

@@ -25,7 +25,7 @@ public class StringManipulation {
         String str1 = str.substring(0, 3);
         StringBuilder newStr=new StringBuilder(str1);
 
-        for(int i=0;i<num;i++){
+        for(int i=1;i<num;i++){
             newStr.append(str1);
         }
         return newStr;

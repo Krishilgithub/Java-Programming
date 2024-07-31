@@ -1,15 +1,14 @@
+/*
+* An electric appliance shop assigns code 1 to motor,2 to
+* fan,3 to tube and 4 for wires. All other items have code 5 or
+* more. While selling the goods, a sales tax of 8% to
+* motor,12% to fan,5% to tube light,7.5% to wires and 3%
+* for all other items is charged. A list containing the product
+* code and price in two different arrays. Write a java
+* program using switch statement to prepare the bill.
+*/
 
 import java.util.Scanner;
-
-/*
- * An electric appliance shop assigns code 1 to motor,2 to
- * fan,3 to tube and 4 for wires. All other items have code 5 or
- * more. While selling the goods, a sales tax of 8% to
- * motor,12% to fan,5% to tube light,7.5% to wires and 3%
- * for all other items is charged. A list containing the product
- * code and price in two different arrays. Write a java
- * program using switch statement to prepare the bill.
- */
 
 public class ShopBillManagement {
 

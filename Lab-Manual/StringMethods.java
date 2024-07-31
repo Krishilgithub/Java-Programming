@@ -30,10 +30,14 @@ public class StringMethods {
         for(int i=obj.length();i>0;i--){
             str.append(obj.charAt(i-1));
         }
-        System.out.println("The reverse of the string is: "+str);
+        System.out.printf("The reverse of the string is: ");
+        for(int i=(obj.length())-1 ; i>=0 ; i--)
+        {
+            char ch = obj.charAt(i);
+            System.out.print(ch);
+        }
         //Sort the string
-        // Pending
-    System.out.println("The sorted string is: "+str);
+    System.out.println("\nThe sorted string is: "+str);
     System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
 }
 }

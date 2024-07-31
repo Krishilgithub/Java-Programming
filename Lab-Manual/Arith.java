@@ -1,6 +1,8 @@
+import java.util.Scanner;
+
 /**
  * Write a java that implements an interface 
- * AdvancedArithmetic which contains amethod signature 
+ * AdvancedArithmetic which contains a method signature 
  * int divisor_sum(int n). You need to write a class 
  * calledMyCalculator which implements the interface. 
  * divisorSum function just takes an integer as input and 
@@ -14,21 +16,33 @@ interface AdvancedArithmetic {
     
     void signature();
 
-    void divisor_sum(int n);
+    int divisor_sum(int n);
 }
 
 class calledMyCalculator implements AdvancedArithmetic{
     public void signature(){}
     
-    public void divisor_sum(int n){
-        for(int i=0;i<n;i++){
+    public int divisor_sum(int n){
+        
+        if(n>1000){
+            System.out.println("Write a smaller number !!");
+        }
+        int sum=0;
+        for(int i=1;i<=n;i++){
             if(n%i==0){
-                System.out.printf("%d ", i);
+                sum+=i;
             }
         }
+        return sum;
     }
 }
 
-public class ArithmeticTest{
-    
+public class Arith{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        calledMyCalculator c1 = new calledMyCalculator();
+        System.out.printf("Enter a number: ");
+        int n = sc.nextInt();
+        System.out.printf("The sum of all the factors of the number %d is %d", n, c1.divisor_sum(n));
+    }
 }
