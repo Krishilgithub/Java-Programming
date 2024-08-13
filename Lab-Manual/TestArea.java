@@ -7,6 +7,7 @@ import java.util.Scanner;
  * constructor and having a method named 'returnArea' which returns the area of
  * the rectangle. Length and breadth of rectangle are entered through keyboard.
  */
+
 class Area {
 
     double length;
