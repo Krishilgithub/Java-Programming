@@ -18,5 +18,7 @@ public class ErrorNException3 {
         catch(NullPointerException e3){
             e3.printStackTrace();
         }
+
+        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
     }
 }

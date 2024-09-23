@@ -32,5 +32,7 @@ public class ErrorNException2 {
             System.out.println("Hello 4");
             e.printStackTrace();
         }
+
+        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
     }
 }

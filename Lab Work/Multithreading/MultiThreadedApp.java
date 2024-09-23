@@ -6,10 +6,10 @@ class RandomNumberGenerator extends Thread {
     public void run() {
         Random rand = new Random();
         while (true) {
-            number = rand.nextInt(100);
+            number = rand.nextInt(100); // Generates a random number between 0 and 99
             System.out.println("Generated Number: " + number);
             try {
-                Thread.sleep(1000); 
+                Thread.sleep(1000); // Pauses for 1 second
             } catch (InterruptedException e) {
                 System.out.println("RandomNumberGenerator interrupted.");
             }
@@ -25,7 +25,7 @@ class SquareCalculator extends Thread {
                 System.out.println("Square of " + RandomNumberGenerator.number + " is: " + square);
             }
             try {
-                Thread.sleep(1000);
+                Thread.sleep(1000); // Pauses for 1 second
             } catch (InterruptedException e) {
                 System.out.println("SquareCalculator interrupted.");
             }
@@ -41,7 +41,7 @@ class CubeCalculator extends Thread {
                 System.out.println("Cube of " + RandomNumberGenerator.number + " is: " + cube);
             }
             try {
-                Thread.sleep(1000);
+                Thread.sleep(1000); // Pauses for 1 second
             } catch (InterruptedException e) {
                 System.out.println("CubeCalculator interrupted.");
             }
@@ -49,7 +49,7 @@ class CubeCalculator extends Thread {
     }
 }
 
-public class MultiThreadedApplication {
+public class MultiThreadedApp {
     public static void main(String[] args) {
         RandomNumberGenerator randomNumberGenerator = new RandomNumberGenerator();
         SquareCalculator squareCalculator = new SquareCalculator();
@@ -58,6 +58,5 @@ public class MultiThreadedApplication {
         randomNumberGenerator.start();
         squareCalculator.start();
         cubeCalculator.start();
-        System.out.println("Name: Krishil Agrawal\nID: 23DCS001");
     }
 }
