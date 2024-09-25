@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="781decb4-4b68-4257-be4a-657908031936" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Java Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abnormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java Project/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Classes, Methods, Constructors/CalculateArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Classes, Methods, Constructors/ComplexOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Classes, Methods, Constructors/Currencyconversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Classes, Methods, Constructors/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Classes, Methods, Constructors/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Classes, Methods, Constructors/TestAirplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Classes, Methods, Constructors/TestArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Classes, Methods, Constructors/TestDegree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Classes, Methods, Constructors/TestShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/BudgetTrackingSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/ClassRoomManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/ExerciseRoutine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/LibraryManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/ShopBillManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/SpeedCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/TakingArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/ErrorNException2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/ErrorNException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/ErrorNException3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/ErrorsNExceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/ErrorsNExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/Lab-3/InvalidAgeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/Lab-3/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/Lab-3/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/Lab-3/Throw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/Lab-3/Throw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/Lab-3/Throw2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/Lab-3/Throw2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Exception Handling/Lab-3/Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Inheritance, Interface, Package/ArithmeticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Inheritance, Interface, Package/ErrorNException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Inheritance, Interface, Package/InheritanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Inheritance, Interface, Package/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/CubeCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/FirstThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/HelloWorldThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/Multi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/MultiThreadedApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/MultiThreadedApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/MultiThreadedApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/MultiThreadedSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/MultiThreading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/MultiThreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/Multithreading1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/Multithreading1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/NumberGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/ProducerConsumerThreadExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/ProducerConsumerThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/ProducerConsumerWithArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/ProducerConsumerWithSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/ProducerConsumerWithoutSync.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/ProducerConsumerWithoutSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/RandomGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/RandomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/RandomNumberGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/SecondThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/SharedBuffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/SquareCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/SumTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/SumThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/SumWithThreads.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/SumWithThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/ThirdThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Multithreading/ThreadPriorityDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Strings/NumberOfNine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Strings/StringDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Strings/StringFunctionalities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Strings/StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Strings/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Strings/StringOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab Work/Strings/SubStringReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/ClassException1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/ClassException1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/ClassNotFoundExceptionExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Exc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Finally.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/First.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Middle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/MiddlePoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/MutliThreading/Multi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/MutliThreading/Multi1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/MutliThreading/Multi2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/MutliThreading/first.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/MutliThreading/m1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/MutliThreading/m1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/MutliThreading/mt2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/MutliThreading/mt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/MutliThreading/prio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/MutliThreading/third.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/SystemClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/TakingInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/TakingInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/Throws.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab-Practical/string.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning/ForEach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning/ForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning/Java Notes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning/LibrarySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning/first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Learning/in/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Recursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/SumOfNaturalNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/SumOfNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/Programming Challlenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/Strings/StudentToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/com/example/ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/exa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/Challenge83/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/Challenge83/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/Challenge83/TestShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/Equals/EqulasAndHashCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/Equals/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/GetterSetter/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/KrishilAgrawal/GetterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/MyPractice/AccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/MyPractice/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/MyPractice/Default.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/MyPractice/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/MyVehicle/TestAbstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/MyVehicle/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/MyVehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/Polymorphism/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programming Challlenges/src/in/Polymorphism/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/Strings.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Strings/src/TestingFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/PersonalTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/RegularUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/RegularUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/Reminder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/Reminder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/Report.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/StudyTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/TaskSchedulerApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/TaskSchedulerApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/WorkTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Project/WorkTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Classes, Methods, Constructors/CalculateArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Classes, Methods, Constructors/ComplexOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Classes, Methods, Constructors/Currencyconversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Classes, Methods, Constructors/DateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Classes, Methods, Constructors/EmployeeManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Classes, Methods, Constructors/EmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Classes, Methods, Constructors/TestAirplane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Classes, Methods, Constructors/TestArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Classes, Methods, Constructors/TestDegree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Classes, Methods, Constructors/TestShape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/BankingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/BudgetTrackingSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/ClassRoomManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/CurrencyConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/ExerciseRoutine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/LibraryManagementSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/ShopBillManagement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/SpeedCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Data Types, Variables, String, Control Statements, Operators, Arrays/TakingArgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/ErrorNException2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/ErrorNException2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/ErrorNException3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/ErrorsNExceptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/ErrorsNExceptions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/Lab-3/InvalidAgeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/Lab-3/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/Lab-3/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/Lab-3/MyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/Lab-3/Throw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/Lab-3/Throw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/Lab-3/Throw2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/Lab-3/Throw2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Exception Handling/Lab-3/Throws.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Inheritance, Interface, Package/Arith.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Inheritance, Interface, Package/ArithmeticTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Inheritance, Interface, Package/ErrorNException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Inheritance, Interface, Package/InheritanceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Inheritance, Interface, Package/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/CubeCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/FirstThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/HelloWorldThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/Multi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/MultiThreadedApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/MultiThreadedApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/MultiThreadedApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/MultiThreadedApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/MultiThreadedSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/MultiThreading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/MultiThreading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/Multithreading1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/Multithreading1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/NumberGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/ProducerConsumerThreadExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/ProducerConsumerThreadExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/ProducerConsumerWithArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/ProducerConsumerWithSync.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/ProducerConsumerWithoutSync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/ProducerConsumerWithoutSync.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/RandomGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/RandomGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/RandomNumberGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/SecondThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/SharedBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/SquareCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/SumTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/SumThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/SumWithThreads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/SumWithThreads.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/ThirdThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/ThreadPriorityDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Multithreading/ThreadPriorityDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Strings/NumberOfNine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Strings/StringDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Strings/StringFunctionalities.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Strings/StringManipulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Strings/StringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Strings/StringOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Work/Strings/SubStringReplacement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/ClassException1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/ClassException1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/ClassNotFoundExceptionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Exc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Finally.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Functions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Middle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MiddlePoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MiddlePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/Multi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/Multi1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/Multi2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/Multi3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/first.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/m1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/m1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/mt2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/mt2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/prio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/MutliThreading/third.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/SystemClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/TakingInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/TakingInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/Throws.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab-Practical/string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/ForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/ForEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/Java Notes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/LibrarySystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/first.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/in/ExceptionHandling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/Recursive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/SumOfNaturalNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/SumOfNaturalNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/Programming Challlenges.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/Strings/StudentToString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/com/example/ex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/exa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/Challenge83/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/Challenge83/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/Challenge83/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/Challenge83/TestShapes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/Equals/EqulasAndHashCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/Equals/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/GetterSetter/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/KrishilAgrawal/GetterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/KrishilAgrawal/Package.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/MyPractice/AccessTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/MyPractice/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/MyPractice/Default.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/MyPractice/Package.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/MyVehicle/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/MyVehicle/TestAbstraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/MyVehicle/Transport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/MyVehicle/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/Polymorphism/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/in/Polymorphism/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/practice/Interfaces/Practical23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming Challlenges/src/practice/Interfaces/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Strings.java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/src/TestingFinal.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2mVC6DRi6vAHjkd12SZBwL57Fi6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Abnormal.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KKBROTHERS/Desktop/Java Programming&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/KKBROTHERS/Desktop/Java Programming/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KKBROTHERS\Desktop\Java Programming\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="781decb4-4b68-4257-be4a-657908031936" name="Changes" comment="" />
+      <created>1727152181960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727152181960</updated>
+      <workItem from="1727152182978" duration="1873000" />
+      <workItem from="1727196040810" duration="1982000" />
+      <workItem from="1727243661027" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

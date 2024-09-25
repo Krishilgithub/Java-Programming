@@ -1,0 +1,10 @@
+Name: Krishil
+Age: 19
+Roll Number: 1
+Average Marks: 190.0
+SGPA: 7.882352941176471
+Grade: Subject 1 Grade: CC, Grade Points: 6.0
+Subject 2 Grade: CC, Grade Points: 6.0
+Subject 3 Grade: AA, Grade Points: 10.0
+Subject 4 Grade: CC, Grade Points: 6.0
+Subject 5 Grade: AA, Grade Points: 10.0
